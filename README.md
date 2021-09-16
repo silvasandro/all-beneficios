@@ -38,7 +38,6 @@ Todos os cartões têm atributos e comportamentos muito parecidos, que são:
 <!--ts-->
 
 * Saldo
-	O valor que o cartão tem naquele momento.
 	
 * Transações
 	Uma lista que registra os detalhes de cada transação de compra.
@@ -52,8 +51,8 @@ Não devemos passar três compras no mesmo cartão dentro do mesmo minuto.
 
 <!--ts-->
   
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
+   * [Saldo](#Saldo)
+      * [O valor que o cartão tem naquele momento.](#Saldo)
       
  
 <!--te-->
