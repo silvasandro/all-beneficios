@@ -101,7 +101,28 @@ Não devemos passar três compras no mesmo cartão dentro do mesmo minuto.
  * Tipo
 
 
-<i> Nosso programa deverá gerenciar cartões de mais de um beneficiário, </br> ou seja, ao iniciar o programa, devemos cadastrar um beneficiário,</br> seus três cartões com senha, inicializar cada cartão com um valor fictício entre 200 e 1000 e uma validade para cada cartão, que inclusive a data pode ser ontem, para demonstrar que se o cartão estiver fora do prazo de validade, a compra irá ser negada. Ao acabar o cadastro do beneficiário e dos seus cartões, o sistema poderá repetir o ciclo ou entrar no modo de gerenciamento de cada cartão, onde os métodos do cartão poderão ser acessados e adicionar novas transações.</i>
+<i> 
+	Nosso programa deverá gerenciar cartões de mais de um beneficiário, </br> ou seja, ao iniciar o programa, devemos cadastrar um beneficiário,</br> seus três cartões com senha, inicializar cada cartão com um valor fictício entre 200 e 1000 e uma validade para cada cartão, que inclusive a data pode ser ontem, para demonstrar que se o cartão estiver fora do prazo de validade, a compra irá ser negada. Ao acabar o cadastro do beneficiário e dos seus cartões, o sistema poderá repetir o ciclo ou entrar no modo de gerenciamento de cada cartão, onde os métodos do cartão poderão ser acessados e adicionar novas transações.
+O menu de cadastro de beneficiários deve permitir abastecer o saldo de um determinado cartão de um beneficiário específico. Considere que haverão somente beneficiários com nomes diferentes para facilitar a implementação.
+
+</i>
+
+## Atributos e comportamentos específicos de cada cartão:
+
+
+* Vale alimentação:
+Ao utilizar o vale alimentação, um cashback de 1.5% será devolvido.
+Esse cartão não poderá ser aceito em estabelecimentos que são do tipo POSTO_COMBUSTIVEL
+
+* Vale refeição:
+Ao utilizar o vale refeição, um cashback de 3% será devolvido.
+
+* Vale combustível:
+Ao utilizar o vale combustível, uma taxa de R$1,00 deverá ser cobrada para cada transação.
+Esse cartão só poderá ser utilizado a cada 2 minutos, independente do valor e estabelecimento
+Esse cartão só poderá ser utilizado em estabelecimentos que são do tipo POSTO_COMBUSTIVEL
+
+
 
 <!--te-->
 
