@@ -122,6 +122,18 @@ O menu de cadastro de beneficiários deve permitir abastecer o saldo de um deter
 	* Esse cartão só poderá ser utilizado a cada 2 minutos, independente do valor e estabelecimento
 	* Esse cartão só poderá ser utilizado em estabelecimentos que são do tipo POSTO_COMBUSTIVEL
 
+* [O que é esperado do projeto?](#)
+      * É esperado que o projeto seja escrito em Java, usando recursos de OO. Olhando para o problema dado acima, escreva as classes necessárias e tente identificar pontos que não foram citados explicitamente, como por exemplo, algum atributo faltante, alguma classe que poderia ser criada para auxiliar no programa, etc. Codifique da melhor forma possível para resolver o problema proposto.
+
+
+
+* [Como entregar esse projeto?](#)
+      * O projeto deverá ser entregue via GitHub e com um vídeo de no máximo 15 minutos explicando as funcionalidades implementadas.
+
+
+
+
+
 
 
 <!--te-->
