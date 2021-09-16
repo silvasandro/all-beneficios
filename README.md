@@ -50,11 +50,19 @@ Sobre o desafio:
 
 - [x] Cadastro de usuário
 - [x] Cadastro de cliente
-- [ ] Cadastro de produtos
+- [x] Cadastro de produtos
+
+
+
+
+ <a href="#objetivo">Objetivo</a> •
+
+
+
+
+
 
 
 <!--ts-->
-  
-
 
 <!--te-->
