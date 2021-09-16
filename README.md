@@ -38,14 +38,28 @@ Todos os cartões têm atributos e comportamentos muito parecidos, que são:
 <!--ts-->
 
 * Saldo
-O valor que o cartão tem naquele momento.
+	O valor que o cartão tem naquele momento.
 	
 * Transações
-Uma lista que registra os detalhes de cada transação de compra.
+	Uma lista que registra os detalhes de cada transação de compra.
 
 * Sistema anti-fraude
-
-Não devemos passar duas compras do mesmo valor no mesmo estabelecimento em um período de 30 segundos (Período curto para facilitar os testes).
+	Não devemos passar duas compras do mesmo valor no mesmo estabelecimento em um período de 30 segundos (Período curto para facilitar os testes).
+	
 Não devemos passar três compras no mesmo cartão dentro do mesmo minuto.
 
+<!--te-->
+
+<!--ts-->
+   * [Sobre](#Sobre)
+   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Instalação](#instalacao)
+   * [Como usar](#como-usar)
+      * [Pre Requisitos](#pre-requisitos)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+   * [Tests](#testes)
+   * [Tecnologias](#tecnologias)
 <!--te-->
