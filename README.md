@@ -40,7 +40,7 @@ Todos os cartões têm atributos e comportamentos muito parecidos, que são:
 * Saldo
 	
 * Transações
-	Uma lista que registra os detalhes de cada transação de compra.
+	
 
 * Sistema anti-fraude
 	Não devemos passar duas compras do mesmo valor no mesmo estabelecimento em um período de 30 segundos (Período curto para facilitar os testes).
@@ -53,6 +53,20 @@ Não devemos passar três compras no mesmo cartão dentro do mesmo minuto.
   
    * [Saldo](#Saldo)
       * O valor que o cartão tem naquele momento
+      
+      
+   * [Transações](#Transações)
+      * Uma lista que registra os detalhes de cada transação de compra.
+      
+      
+   * [Saldo](#Saldo)
+      * O valor que o cartão tem naquele momento
+      
+      
+   * [Sistema anti-fraude](#Sistema anti-fraude)
+      * Não devemos passar duas compras do mesmo valor no mesmo estabelecimento em um período de 30 segundos (Período curto para facilitar os testes).
+	
+Não devemos passar três compras no mesmo cartão dentro do mesmo minuto.
       
  
 <!--te-->
