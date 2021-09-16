@@ -52,5 +52,10 @@ Todos os cartões têm atributos e comportamentos muito parecidos, que são:
 	
 Não devemos passar três compras no mesmo cartão dentro do mesmo minuto.
       
- 
 <!--te-->
+
+<!--ts-->
+    * [Saldo](#Saldo)
+      * O valor que o cartão tem naquele momento
+<!--te-->
+
