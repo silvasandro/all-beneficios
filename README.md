@@ -109,18 +109,18 @@ O menu de cadastro de beneficiários deve permitir abastecer o saldo de um deter
 
 ## Atributos e comportamentos específicos de cada cartão:
 
-
-* Vale alimentação:
-Ao utilizar o vale alimentação, um cashback de 1.5% será devolvido.
+* [Vale alimentação](#)
+      * Ao utilizar o vale alimentação, um cashback de 1.5% será devolvido.
 Esse cartão não poderá ser aceito em estabelecimentos que são do tipo POSTO_COMBUSTIVEL
+      
 
 * Vale refeição:
-Ao utilizar o vale refeição, um cashback de 3% será devolvido.
+	* Ao utilizar o vale refeição, um cashback de 3% será devolvido.
 
 * Vale combustível:
-Ao utilizar o vale combustível, uma taxa de R$1,00 deverá ser cobrada para cada transação.
-Esse cartão só poderá ser utilizado a cada 2 minutos, independente do valor e estabelecimento
-Esse cartão só poderá ser utilizado em estabelecimentos que são do tipo POSTO_COMBUSTIVEL
+	* Ao utilizar o vale combustível, uma taxa de R$1,00 deverá ser cobrada para cada transação.
+	* Esse cartão só poderá ser utilizado a cada 2 minutos, independente do valor e estabelecimento
+	* Esse cartão só poderá ser utilizado em estabelecimentos que são do tipo POSTO_COMBUSTIVEL
 
 
 
