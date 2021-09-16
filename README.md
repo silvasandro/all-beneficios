@@ -31,10 +31,21 @@ Escrever um programa em Java que seja capaz de gerenciar vários cartões de ben
    * Vale combustível
 <!--te-->
 
-
-
-
+<p align="left">
+Todos os cartões têm atributos e comportamentos muito parecidos, que são:
+</p>
 
 <!--ts-->
+
+* Saldo
+O valor que o cartão tem naquele momento.
+	
+* Transações
+Uma lista que registra os detalhes de cada transação de compra.
+
+* Sistema anti-fraude
+
+Não devemos passar duas compras do mesmo valor no mesmo estabelecimento em um período de 30 segundos (Período curto para facilitar os testes).
+Não devemos passar três compras no mesmo cartão dentro do mesmo minuto.
 
 <!--te-->
