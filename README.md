@@ -16,7 +16,7 @@
 <!--te-->
 
 <h4 align="center"> 
-	🚧  Java 🚀 Em construção...  🚧
+	🚧  Construído com 🚀 Java ...  🚧
 </h4>
 
 
