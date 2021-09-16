@@ -109,7 +109,7 @@ O menu de cadastro de beneficiários deve permitir abastecer o saldo de um deter
 
 ## Atributos e comportamentos específicos de cada cartão:
 
-* [Vale alimentação](#)
+* [Vale alimentação]
       * Ao utilizar o vale alimentação, um cashback de 1.5% será devolvido.
 Esse cartão não poderá ser aceito em estabelecimentos que são do tipo POSTO_COMBUSTIVEL
       
