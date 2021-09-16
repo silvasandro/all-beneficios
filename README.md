@@ -74,8 +74,34 @@ Não devemos passar três compras no mesmo cartão dentro do mesmo minuto.
       * Pela data de validade
 
 
- * [Saldo](#Saldo)
+ * [Extrato do cartão](#)
       * O valor que o cartão tem naquele momento
+
+
+ * [Mostrar saldo atual](#)
+      * O valor que o cartão tem naquele momento
+
+
+ * [Adicionar nova transação](#)
+      * O valor que o cartão tem naquele momento
+
+
+## Uma transação deve conter os seguintes dados:
+ * Valor
+ * Data e hora
+ * Localização
+ * Estabelecimento
+
+
+
+## Um estabelecimento deve conter os seguintes dados:
+
+ * Nome
+ * Identificador (Pode ser um número sequencial)
+ * Tipo
+
+
+### Nosso programa deverá gerenciar cartões de mais de um beneficiário, </br> ou seja, ao iniciar o programa, devemos cadastrar um beneficiário,</br> seus três cartões com senha, inicializar cada 
 
 <!--te-->
 
