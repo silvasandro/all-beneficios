@@ -44,6 +44,15 @@ Sobre o desafio:
 </p>
 
 
+<h4 align="left"> 
+	🚧  Java 🚀 Features...  🚧
+</h4>
+
+- [x] Cadastro de usuário
+- [x] Cadastro de cliente
+- [ ] Cadastro de produtos
+
+
 <!--ts-->
   
 
