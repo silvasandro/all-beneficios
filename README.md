@@ -52,7 +52,7 @@ Não devemos passar três compras no mesmo cartão dentro do mesmo minuto.
 <!--ts-->
   
    * [Saldo](#Saldo)
-      * [O valor que o cartão tem naquele momento.]
+      * O valor que o cartão tem naquele momento
       
  
 <!--te-->
