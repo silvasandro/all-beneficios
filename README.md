@@ -10,7 +10,7 @@
    * Rafael - https://github.com/CasteloRafael
    * Luisa Menezes - https://github.com/LuisaMenezesDeMattos
    * Max
-   * Silvio
+   * Silvio -@https://github.com/SilvioJulio
    * José - @https://github.com/zeth-I
    * Sandro Silva - @https://github.com/silvasandro
 <!--te-->
