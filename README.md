@@ -9,9 +9,9 @@
  <!--ts-->
    * Rafael - https://github.com/CasteloRafael
    * Luisa Menezes - https://github.com/LuisaMenezesDeMattos
-   * Max
-   * Silvio -@https://github.com/SilvioJulio
-   * José - @https://github.com/zeth-I
+   * Max Souza - https://github.com/MaxSouza88
+   * Silvio - https://github.com/SilvioJulio
+   * José - https://github.com/zeth-I
    * Sandro Silva - @https://github.com/silvasandro
 <!--te-->
 
