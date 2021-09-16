@@ -63,7 +63,7 @@ Não devemos passar três compras no mesmo cartão dentro do mesmo minuto.
       * O valor que o cartão tem naquele momento
       
       
-   * [Sistema anti-fraude](#Sistema anti-fraude)
+   * [Sistema anti-fraude](#Sistema-anti-fraude)
       * Não devemos passar duas compras do mesmo valor no mesmo estabelecimento em um período de 30 segundos (Período curto para facilitar os testes).
 	
 Não devemos passar três compras no mesmo cartão dentro do mesmo minuto.
