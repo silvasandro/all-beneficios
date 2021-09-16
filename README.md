@@ -36,6 +36,7 @@ Sobre o desafio:
 =================
 <!--ts-->
    * [Sobre](#Sobre)
+   * (#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
