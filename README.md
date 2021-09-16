@@ -101,7 +101,7 @@ Não devemos passar três compras no mesmo cartão dentro do mesmo minuto.
  * Tipo
 
 
-### Nosso programa deverá gerenciar cartões de mais de um beneficiário, </br> ou seja, ao iniciar o programa, devemos cadastrar um beneficiário,</br> seus três cartões com senha, inicializar cada 
+### Nosso programa deverá gerenciar cartões de mais de um beneficiário, </br> ou seja, ao iniciar o programa, devemos cadastrar um beneficiário,</br> seus três cartões com senha, inicializar cada cartão com um valor fictício entre 200 e 1000 e uma validade para cada cartão, que inclusive a data pode ser ontem, para demonstrar que se o cartão estiver fora do prazo de validade, a compra irá ser negada. Ao acabar o cadastro do beneficiário e dos seus cartões, o sistema poderá repetir o ciclo ou entrar no modo de gerenciamento de cada cartão, onde os métodos do cartão poderão ser acessados e adicionar novas transações.
 
 <!--te-->
 
