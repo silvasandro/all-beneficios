@@ -51,11 +51,34 @@ Todos os cartões têm atributos e comportamentos muito parecidos, que são:
       * Não devemos passar duas compras do mesmo valor no mesmo estabelecimento em um período de 30 segundos (Período curto para facilitar os testes).
 	
 Não devemos passar três compras no mesmo cartão dentro do mesmo minuto.
+
+ * [Saldo](#Saldo)
+      * O valor que o cartão tem naquele momento
       
+
+ * [Senha](#Senha)
+      * Todo cartão deve ter sua senha de uso.
+
+
+ * [Nome do beneficiário](#Nome-do-beneficiário)
+      * O valor que o cartão tem naquele momento
+
+
+ * [Validade](#Validade)
+      * O valor que o cartão tem naquele momento
+
+
+ * [Negar compra](#Negar-compra)
+      * Por falta de saldo
+      * Pelo sistema anti-fraude
+      * Pela data de validade
+
+
+ * [Saldo](#Saldo)
+      * O valor que o cartão tem naquele momento
+
 <!--te-->
 
-<!--ts-->
-    * [Saldo](#Saldo)
-      * O valor que o cartão tem naquele momento
-<!--te-->
+
+
 
