@@ -131,13 +131,19 @@ O menu de cadastro de beneficiários deve permitir abastecer o saldo de um deter
       * O projeto deverá ser entregue via GitHub e com um vídeo de no máximo 15 minutos explicando as funcionalidades implementadas.
 
 
-
-
-
-
-
 <!--te-->
 
+
+
+---
+
+## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
+
+Feito de ❤️ 
+
+---
 
 
 
