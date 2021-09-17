@@ -7,12 +7,23 @@
  ## Grupo all-Benefícios
  
  <!--ts-->
+* [Luisa Mattos](https://github.com/LuisaMenezesDeMattos)
+* [José Lucas Cabral](https://github.com/zeth-I)
+* [Rafael Castelo](https://github.com/CasteloRafael)
+* [Silvio Julio dos Santos](https://github.com/SilvioJulio)
+* [Max Souza](https://github.com/MaxSouza88)
+* [Sandro Silva](https://github.com/silvasandro)
+
+<!-- 
+
    * Rafael - https://github.com/CasteloRafael
    * Luisa Menezes - https://github.com/LuisaMenezesDeMattos
    * Max Souza - https://github.com/MaxSouza88
    * Silvio - https://github.com/SilvioJulio
    * José - https://github.com/zeth-I
    * Sandro Silva - @https://github.com/silvasandro
+ -->
+
 <!--te-->
 
 <h4 align="center"> 
